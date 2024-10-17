@@ -1,4 +1,4 @@
-/* Media queries para dispositivos más pequeños */
+
 @media (max-width: 991px) {
     .navbar-nav {
         background-color: #F4ACB7;
@@ -18,7 +18,7 @@
     }
 }
 
-/* Transiciones para los elementos del menú de navegación */
+
 .nav-item {
     opacity: 0;
     transform: translateY(-20px);
