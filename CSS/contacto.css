@@ -5,7 +5,7 @@ body {
 }
 
 .footer {
-    background: #F4ACB7;
+    background: rgb(251, 96, 192);
     color: white;
     padding: 50px 0 20px;
     position: relative;
@@ -82,7 +82,7 @@ body {
 }
 
 .copyright {
-    background-color: #F4ACB7;
+    background-color: rgb(251, 96, 192);
     padding: 15px 0;
     margin-top: 30px;
 
@@ -102,7 +102,7 @@ body {
 
 :root {
     --primary-color:rgb(233, 255, 254);
-    --secondary-color: #F4ACB7;
+    --secondary-color: rgb(251, 96, 192);
     --hover-color:rgb(184, 218, 255);
 }
 
